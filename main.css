@@ -1,0 +1,65 @@
+body {
+  background-color: #333;
+}
+
+.opt {
+  width: 1140px;
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: lightgreen;
+  letter-spacing: 3px;
+}
+
+.idleyez {
+  background-image: url(logo.jpeg);
+  width: 150px;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  float: left;
+  margin-right: 2em;
+}
+
+.form-img-cont {
+  width: 650px;
+  display: block;
+  margin: 0 auto;
+}
+
+form {
+  width: 500px;
+}
+
+#email {
+  width: 205px;
+}
+
+#first {
+  margin-right: 1em;
+}
+
+#first, #last {
+  width: 8em;
+}
+
+input {
+  margin-bottom: 2em;
+  padding: 0.5em;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 220px;
+  background-color: orange;
+  border-radius: 5px;
+  color: #fff;
+}
+
+input[type="submit"]:focus {
+  outline: none;
+}

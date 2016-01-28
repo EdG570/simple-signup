@@ -1,0 +1,26 @@
+{
+  "name": "simple-signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdG570/simple-signup.git"
+  },
+  "author": "Ed Glazenski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdG570/simple-signup/issues"
+  },
+  "homepage": "https://github.com/EdG570/simple-signup#readme",
+  "devDependencies": {
+    "bower": "^1.7.2",
+    "jasmine-core": "^2.4.1",
+    "jquery": "^2.2.0",
+    "karma": "^0.13.19",
+    "karma-jasmine": "^0.3.6"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "simple-signup",
+  "main": "app.js",
+  "homepage": "https://github.com/EdG570/simple-signup",
+  "authors": [
+    "Ed Glazenski <edglazenski@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-mocks": "~1.4.9",
+    "angular": "~1.4.9",
+    "jquery": "~2.2.0"
+  }
+}
